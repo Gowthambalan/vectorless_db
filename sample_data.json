@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "FastAPI Introduction",
+    "content": "FastAPI is a modern web framework for building APIs with Python."
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning",
+    "content": "Machine learning is a subset of AI that allows systems to learn from data."
+  },
+  {
+    "id": 3,
+    "title": "Ollama",
+    "content": "Ollama allows you to run large language models locally."
+  }
+]
