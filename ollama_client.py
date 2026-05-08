@@ -4,7 +4,7 @@
 
 # def generate_response(prompt: str):
 #     response = requests.post(
-#         OLLAMA_URL,
+#         OLLAMA_URL, 
 #         json={
 #             "model": "llama3",
 #             "prompt": prompt,
